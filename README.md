@@ -1,0 +1,2 @@
+# HurstAnalysis
+Hurst Exponent Video
